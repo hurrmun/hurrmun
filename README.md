@@ -6,7 +6,7 @@
 - 📫 How to reach me: hermanlyx@gmail.com
 - ⚡ Fun fact: I can do divination with Tarot Cards!
 
-Projects:
+## Projects:
 - [Online Resume](https://www.hermanloh.com/)
 - [Financial Estimator](https://singaporean-fi-estimator.vercel.app/)
 - [QuizSG](https://github.com/opengovsg/quizSG)
