@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub page!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hurrmun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **hurrmun/hurrmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
