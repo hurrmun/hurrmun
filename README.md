@@ -3,9 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurrmun&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on: [My Online Resume](https://www.hermanloh.com/)
-- 🌱 I’m currently learning: Three.js
+- 🌱 I’m currently learning: FullStack Web Development
 - 📫 How to reach me: hermanlyx@gmail.com
-- ⚡ Fun fact: I can do divination with Tarot Cards!
 
 ### Projects:
 - [Online Resume](https://www.hermanloh.com/)
