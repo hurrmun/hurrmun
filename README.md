@@ -1,6 +1,15 @@
 ## Herman's GitHub Profile | [Portfolio](https://www.hermanloh.com/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurrmun&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurrmun&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hurrmun&count_private=true&theme=dark&hide=stars" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurrmun&layout=compact&count_private=true&theme=dark" />
+  </a>
+  <br>
+</div>
+
+## What I am up to
 
 - 🔭 I’m currently working on: [My Online Resume](https://www.hermanloh.com/)
 - 🌱 I’m currently learning: FullStack Web Development
@@ -14,3 +23,5 @@
 - [Trivia King](https://trivia0king.herokuapp.com/)
 - [BuildAWT](https://buildawt-app.vercel.app/)
 - [2048 Game Clone](https://2048-game-clone.vercel.app/)
+
+
